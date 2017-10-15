@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ## 만득이 1기 
