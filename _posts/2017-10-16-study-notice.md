@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "심화 스터디"
-excerpt_separator: "<!--more-->"
-date: 2017-10-16
-categories:
-  - Post
-last_modified_at: 2017-03-09T12:45:25-05:00
+title: Example content
 ---
+
+
 <div class="message">
   심화 스터디 공지
 </div>
