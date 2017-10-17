@@ -5,8 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  코오롱베니트 AI 스터디 모임입니다.
 </p>
 
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
