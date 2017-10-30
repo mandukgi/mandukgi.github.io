@@ -9,12 +9,19 @@ last_modified_at: 2017-10-30T12:45:25-05:00
 ---
 
 금일 발표자료 입니다.
+* [AI스터디_IBM-왓슨.pptx](https://github.com/mandukgi/mandukgi.github.io/blob/master/assets/doc/AI%EC%8A%A4%ED%84%B0%EB%94%94_IBM-%EC%99%93%EC%8A%A8.pptx)
+* [Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf]
+* [GCP소개.pptx]
+* [Google Cloud ML.pdf]
+* [카카오_네이버_ML_API_20171025_v1.0.pptx]
  
 AWS의 강의자료 및 동영상 원본은: https://www.slideshare.net/awskorea/recap2016-3-amazon-ai-and-deep-learning
  
 GCP에서 제가 시간이 없어 잠시만 보여드린 'Google Cloud ML.pdf'는 김성훈교수가 소개한 자료입니다. 
 자세한 내용은 YouTube 링크를 참조해 주세요. https://www.youtube.com/watch?v=EIRD3HAp-QQ
  
+ 
+<!--more-->
 -------------------------------------------------------------------------------------------
  
 다음주부터는 스탠포드대학교 cs231n(2016버전)를 풀어 설명한 자료를 함께 보고, 필요하면 내용관련 토론을 하겠습니다.
