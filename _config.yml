@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            만득이
-tagline:          '코오롱베니트 AI 스터디'
-description:      '코오롱베니트 AI 스터디 모임'
+tagline:          '코오롱베니트'
+description:      '코오롱베니트 AI'
 url:              https://mandukgi.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           '미선'
+  name:           '만득이'
   url:             
 
 paginate:         5
