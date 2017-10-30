@@ -10,7 +10,7 @@ last_modified_at: 2017-10-30T12:45:25-05:00
 
 금일 발표자료 입니다.
 * [AI스터디_IBM-왓슨.pptx](https://github.com/mandukgi/mandukgi.github.io/blob/master/assets/doc/AI%EC%8A%A4%ED%84%B0%EB%94%94_IBM-%EC%99%93%EC%8A%A8.pptx)
-* [Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf]
+* [Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf]({{ site.baseurl }}/assets/doc/Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf)
 * [GCP소개.pptx]
 * [Google Cloud ML.pdf]
 * [카카오_네이버_ML_API_20171025_v1.0.pptx]
@@ -32,7 +32,9 @@ cs231n의 Lecture1은 Computer Vision 역사이므로 넘어가고, Lecture2부�
 초반 한 두개 강의는 전통적인CV/머신비전(SVM등) 알고리즘 설명이 일부 있어서 약간 어려우실 수 있습니다. 그 이후에는 우리가 잘 아는 내용이 나옵니다. 다음주에 참석이 어려운 분은 Lecture 2 'Image Classification Pipeline'를 따로 보시면 되겠습니다.
  
 https://youtu.be/3QjGtOlIiVI
- 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/3QjGtOlIiVI?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
+</div>
 송교석이란 분이 설명하는데 이분 프로필은 아래와 같습니다. 검색해보니 딥러닝 책도 몇권 번였했더라구요.
 고려대학교 졸업 후 카네기 멜런 대학교에서 컴퓨터 과학 석사 학위를 받았다. 
 안랩에서 10년간 근무했으며 분사한 노리타운스튜디오의 대표이사를 역임했다. 
