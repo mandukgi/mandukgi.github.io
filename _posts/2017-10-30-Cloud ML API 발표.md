@@ -9,11 +9,11 @@ last_modified_at: 2017-10-30T12:45:25-05:00
 ---
 
 금일 발표자료 입니다.
-* [AI스터디_IBM-왓슨.pptx](https://github.com/mandukgi/mandukgi.github.io/blob/master/assets/doc/AI%EC%8A%A4%ED%84%B0%EB%94%94_IBM-%EC%99%93%EC%8A%A8.pptx)
 * [Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf]({{ site.baseurl }}/assets/doc/Amaon 인공지능(AI) 서비스 및 AWS 기반 딥러닝 활용 방법.pdf)
-* [GCP소개.pptx]
-* [Google Cloud ML.pdf]
-* [카카오_네이버_ML_API_20171025_v1.0.pptx]
+* [GCP소개.pptx]({{ site.baseurl }}/assets/doc/GCP소개.pptx)
+* [Google Cloud ML.pdf]({{ site.baseurl }}/assets/doc/Google Cloud ML.pdf)
+* [카카오_네이버_ML_API_20171025_v1.0.pptx]({{ site.baseurl }}/assets/doc/카카오_네이버_ML_API_20171025_v1.0.pptx)
+* [AI스터디_IBM-왓슨.pptx]({{ site.baseurl }}/assets/doc/IBM-왓슨.pptx)
  
 AWS의 강의자료 및 동영상 원본은: https://www.slideshare.net/awskorea/recap2016-3-amazon-ai-and-deep-learning
  
